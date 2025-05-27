@@ -16,30 +16,23 @@
     color: white;
 }
 .first-container{
-    height: 500px;
+   
     padding-top: 50px;
     display: grid;
    
 }
 .second-container{
-    height: 750px;
+   
     margin-top: 100px ;
    
    
 }
-.third-container{
-    height: 750px;
 
-}
-.forth-container{
-    margin-top: 250px;
-    height: 600px;
+.forth-container{ 
     display: grid;
-    
-   
 }
 .fivth-container{
-    height: 250px;
+  
     margin-top: 100px;
    
 }
@@ -73,7 +66,7 @@
     text-align: center;
     width: 600px;
     margin: auto;
-    margin-bottom: 30px;
+    
 }
 .bor{
     border-radius: 30px;
@@ -101,10 +94,10 @@ text-decoration: underline;
 }
 .project-img{
     width: 900px;
-    margin: auto;
+    margin:auto;
 }
 .web-link{
     width: 250px;
- 
+    text-align:center;
     margin: 30px auto ;
 }
